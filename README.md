@@ -29,4 +29,4 @@ Definir los nombres de ROL.</br>
 <p>Compartir el iframe para realizar pruebas y entender el funcionamiento del mismo</p>
 <p>¿Quieren mostrar más información aparte de la establecida por el proveedor? Si la respuesta es afirmativa, que información de más quieren mostrar.</p>
 
-<h3 style="color:rgb(0,100,176)">ESTADO</h3> <h3>PLANEANDO</h3>
+<h3>ESTADO - EN PLANEACIÓN</h3>
