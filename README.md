@@ -20,6 +20,6 @@ Definir los nombres de ROL.</br>
 <p>Que información se va a guardar en la base de datos, está información puede ser usada a nivel corporativo o a nivel UX, y tiene que ser añadida por un usuario colaborador.</p></br>
 <h3>COTIZADOR</h3>
 <p>
-  Precios por kg, o definir la medida de peso que se va a usar.
-  
+  Precios por kg, o definir la medida de peso que se va a usar. Información NAP y ASL
 </p>
+
