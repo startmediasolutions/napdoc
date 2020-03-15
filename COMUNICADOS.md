@@ -1,1 +1,2 @@
-<h3>COMUNICADOS</h3>
+<h3>MAPA DE NAVEGACIÓN</h3>
+<p>Pendiente Definir Mapa de Navegación</p>
